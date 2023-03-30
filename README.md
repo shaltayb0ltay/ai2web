@@ -1,7 +1,7 @@
 ## AI2Web :copyright:
 AI2Web is a web building tool powered by OpenAI's GPT API. It allows you to create and design static web pages with ease. The tool is programmed using ReactJS and is designed to help individuals and teams build web pages faster.
 
-:link: You can now try it live at https://shaltayb0ltay.github.io
+:link: You can now try it live at https://shaltayb0ltay.github.io/react-app
 
 
 ## Features ⚙️
